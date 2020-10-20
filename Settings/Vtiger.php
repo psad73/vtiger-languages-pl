@@ -243,7 +243,8 @@ $languageStrings = array(
 
   'LBL_MAILROOM' => 'Listów',
   'LBL_SEARCH_SETTINGS_PLACEHOLDER' => 'Parametry Wyszukiwania',
-  'LBL_SUMMARY' => 'Cv',
+  'LBL_SUMMARY' => 'Podsumowanie',
+  
   'LBL_ACTIVE_USERS' => 'Użytkownicy',
   'LBL_WORKFLOWS_ACTIVE' => 'Procesy robocze',
   'LBL_MODULES' => 'Moduły',
